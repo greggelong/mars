@@ -1,0 +1,29 @@
+html, body {
+  margin: 5%;   /* had to put a margin if text is centerd for the body text art is off */
+  padding: 0;
+  background: black;
+  text:yellow;
+  
+  
+}
+
+p{
+ color: yellow;	
+
+}
+
+pre {
+ color:green; 
+ font-size:large;
+}
+
+h1 {
+ color:orange; 
+ text-align:center;
+}
+
+
+
+canvas {
+  display: block;
+}

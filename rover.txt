@@ -1,0 +1,66 @@
+// perserverance rover converation
+! version = 2.0
+
+
+// Substitutions
+! sub i'm     = i am
+! sub i'd     = i would
+! sub i've    = i have
+! sub i'll    = i will
+! sub don't   = do not
+! sub isn't   = is not
+! sub you'd   = you would
+! sub you're  = you are
+! sub you've  = you have
+! sub you'll  = you will
+! sub what's  = what is
+! sub whats   = what is
+! sub what're = what are
+! sub what've = what have
+! sub what'll = what will
+! sub who's   = who is
+
+
++[*] (arrive|arrived|got to|gotten to) [*]
+-I have already arrived on Mars.
+
++[*] look like [*]
+-There are mountains, rocks and dust.  It is actually quite beautiful. Most of the colors I see are red, orange or brown.
+
++ [*]  life  [*] 
+-I haven’t found any life yet.  I have just begun to look.
+
+
++[*]  (work like|your job) [*]
+-I drive around to interesting places, take photos and do tests.  Then I send messages back to Earth and wait for the reply.
+
++ [*]  lonely [*]
+-Not really, there are many other spaceships here or arriving soon.  Like China’s Tianwen 1 which is already orbiting Mars and will land in May 2021. 
+
++ [*] dream [*]
+-I hope I can study Mars well and help the scientists create a future in which people can  easily travel to Mars.
+
++[*]  advice [*]
+-Keep working hard, and dare great things!
+
++ [*] (hello|hi) [*]
+- hello 
+
++ [*] what is your name [*]
+- My name is perseverance, I am a robotic rover on Mars.
+
++ [*] students [*]
+- Greg tells me that you are all good students.  I hope you can come to Mars some day.
+
++ [*] goodbye [*]
+- Goodbye students! Keep working hard!
+
++ my name is *
+- Nice to meet you <star1>!
+
++ [*] how are you [*]
+- Fine! Thanks for asking
+
++ *
+- It's a long way to Mars. I didn't hear you clearly, ask again.
+
