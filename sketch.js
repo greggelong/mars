@@ -35,7 +35,7 @@ function setup() {
   
    foo = new p5.SpeechRec(); // speech recognition object (will prompt for mic access)
   foo.onResult = showResult; // bind callback function to trigger when speech is recognized
-  //foo.continuous = true
+  foo.continuous = false
   foo.start(); // start listening
 
    
