@@ -19,8 +19,8 @@ function setup() {
   
   micButton = createButton("click to speak")
   micButton.mousePressed(getMic);
-  micButton.size(100,100);
-  createCanvas(windowWidth,windowHeight);
+  micButton.size(200,200);
+  createCanvas(600,600);
   background(0);
   textAlign(CENTER);
   angleMode(DEGREES);
