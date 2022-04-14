@@ -72,8 +72,7 @@ function setup() {
       .catch(error => console.error(error));
   }); 
   
-  micButton = createButton("click to speak")
-  micButton.mousePressed(getMic);
+  
   }
 
 function getMic(){
