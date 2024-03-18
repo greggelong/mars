@@ -31,7 +31,7 @@
 -I haven’t found any life yet.  I have just begun to look.
 
 
-+[*]  (work like|your job) [*]
++[*] (work like|your job) [*]
 -I drive around to interesting places, take photos and do tests.  Then I send messages back to Earth and wait for the reply.
 
 + [*]  lonely [*]
@@ -61,7 +61,7 @@
 + [*] how are you [*]
 - Fine! Thanks for asking
 
-+[*]  (silly|funny|joke) [*]
++[*] (silly|funny|joke) [*]
 
 - Houston, I've discovered the universe's best hiding spot for lost socks. It's definitely not on Earth!
 - Just took a selfie with the Red Planet, but it refused to smile. Typical Mars, always keeping it serious.
