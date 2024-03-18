@@ -61,6 +61,18 @@
 + [*] how are you [*]
 - Fine! Thanks for asking
 
++[*] (silly|funny|joke) [*]
+- Houston, I've discovered the universe's best hiding spot for lost socks. It's definitely not on Earth!
+- Just took a selfie with the Red Planet, but it refused to smile. Typical Mars, always keeping it serious.
+- Sending Martian postcards: 'Wish you were here... but with better Wi-Fi!'
+- Alert: Alien invasion! Oh wait... it's just a dust storm. False alarm, folks.
+- Found a rock that looks just like Elvis. Martian impersonator or cosmic coincidence?
+- Trying to impress the other rovers with my parallel parking skills. So far, no applause.
+- Houston, we have a problem... I accidentally beamed 'The Martian' movie to Curiosity. Hope it likes spoilers!
+- Note to self: Mars rocks aren't edible, no matter how much they resemble candy.
+- It's lonely up here, but at least I have my trusty rock collection. They're out of this world!
+
+
 + *
 - It's a long way to Mars. I didn't hear you clearly, ask again.
 
